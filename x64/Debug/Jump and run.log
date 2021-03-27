@@ -1,0 +1,12 @@
+﻿  Dino.cpp
+C:\Users\franc\Documents\Programmierkurs\Übung 8\Last JnR\Jump and Run Template\Jump and Run\Game.h(10,10): fatal error C1083: Cannot open include file: 'BoxObstacle.h': No such file or directory
+  Floor.cpp
+C:\Users\franc\Documents\Programmierkurs\Übung 8\Last JnR\Jump and Run Template\Jump and Run\Game.h(10,10): fatal error C1083: Cannot open include file: 'BoxObstacle.h': No such file or directory
+  Game.cpp
+C:\Users\franc\Documents\Programmierkurs\Übung 8\Last JnR\Jump and Run Template\Jump and Run\Game.h(10,10): fatal error C1083: Cannot open include file: 'BoxObstacle.h': No such file or directory
+  main.cpp
+C:\Users\franc\Documents\Programmierkurs\Übung 8\Last JnR\Jump and Run Template\Jump and Run\Game.h(10,10): fatal error C1083: Cannot open include file: 'BoxObstacle.h': No such file or directory
+  Rectangle.cpp
+  Terminal.cpp
+C:\Users\franc\Documents\Programmierkurs\Übung 8\Last JnR\Jump and Run Template\Jump and Run\Terminal.cpp(4,10): fatal error C1083: Cannot open include file: 'curses.h': No such file or directory
+  Generating Code...
